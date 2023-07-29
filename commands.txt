@@ -1,0 +1,21 @@
+# GIT commands 29/7/2023
+
+git init
+git status
+git add
+git commit -m ""
+git rm --cached
+git log
+git restore
+git config --global user.name ""
+git config --global user.email ""
+git log --oneline
+git log --oneline --pretty
+git remote -v
+git remote -set-url --add <name> <url>
+
+# added in dev branch
+git checkout -b
+git branch
+
+
